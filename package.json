@@ -19,5 +19,8 @@
   "homepage": "https://github.com/romsson/boilerplate-d3-chart#readme",
   "dependencies": {
     "d3": "^4.13.0"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
   }
 }
